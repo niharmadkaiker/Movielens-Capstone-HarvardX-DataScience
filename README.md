@@ -10,3 +10,6 @@ The MovieLens Data set is collected by GroupLens Research and can be found on th
 You can read more about the netflix prize here (<https://en.wikipedia.org/wiki/Netflix_Prize>)
 
 Building upon this, my analysis looks at first the exploratory analysis of the data, identifying the trends in the data set, we then look at what are the potential biases and create models to address the biases, based on which Root mean squared error is calculated to evaluate the effectiveness of each model. At the outset, (given the data provided), we can look at the user wise effect (how the data varies user to user), the time effect (how ratings have evolved over the years), we can look at the genre effect ( how the data varies by genre), and the movie effect itsel (some movies are popular and hence have more ratings). The models would be evolved around these factors.
+
+## Running the code
+Use the .rmd file to access the code, to knit the complete project.
